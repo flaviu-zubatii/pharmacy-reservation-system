@@ -1,4 +1,14 @@
+<div align="center">
+
 # 💊 Pharmacy Reservation System
+
+**Sistem CLI de gestiune a unei farmacii cu acces pe roluri, dezvoltat în C++.**
+
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
+
+</div>
+
+---
 
 A command-line application developed in **C++** for managing pharmacy products and reservations, featuring role-based access and modular architecture.
 
@@ -70,3 +80,16 @@ The application is designed with a strong focus on **object-oriented programming
 ```bash
 g++ main_admin.cpp -o admin
 g++ main_user.cpp -o user
+```
+
+### Run:
+```bash
+./admin    # Admin panel
+./user     # User panel
+```
+
+---
+
+## 👤 Autor
+
+**Zubatîi Flaviu** — Universitatea de Vest din Timișoara
